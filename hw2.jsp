@@ -77,6 +77,7 @@
 			// alert(pwdvalue);
 		}else {
 			pwdflag = false;
+			pwdvalue = p;
 			alert("密码输入有误");
 		}
 
